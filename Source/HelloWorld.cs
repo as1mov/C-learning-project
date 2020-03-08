@@ -1,6 +1,6 @@
 using System;
 
-namespace CSharpLearningProject
+namespace HelloWorld
 {
     class Program
     {
