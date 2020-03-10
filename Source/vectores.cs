@@ -14,7 +14,7 @@ namespace Vectores
 
 
             /*Recorremos el vector con el bucle for (Cambiamos la impresión de pantalla
-            entre los dos vectores para ver las diferencias*/
+            entre los dos vectores para ver las diferencias)*/
 
             for (int i = 0; i<5; i++) {
 
