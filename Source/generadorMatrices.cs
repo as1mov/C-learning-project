@@ -20,7 +20,7 @@ namespace PacMatrices
             Console.WriteLine("Introduzca el número de columnas de la matriz 1");
             columnasMatriz1 = int.Parse(Console.ReadLine());
 
-            //Creamos las matriz 1
+            //Creamos la matriz 1
 
             int[,] matriz1 = new int[filasMatriz1, columnasMatriz1];
 
