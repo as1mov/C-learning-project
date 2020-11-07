@@ -8,7 +8,7 @@ namespace Comentarios
         {
             //Esto es un comentario de una línea.
 
-            Console.WriteLine("Esto es una prueba de comentarios de texto");
+            Console.WriteLine("Los comentarios son omitidos por el compilador");
 
             /*Esto es un comentario multilínea.
              * Estos textos quedan fuera del código
