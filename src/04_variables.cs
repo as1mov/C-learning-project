@@ -6,11 +6,11 @@ namespace variables
     {
         static void Main(string[] args)
         {
-            int num
-            string text
+            int num;
+            string text;
                 
-            num = 2
-            text = "Computadora"
+            num = 2;
+            text = "Computadora";
         }
     }
 }
