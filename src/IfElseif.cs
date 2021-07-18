@@ -12,8 +12,10 @@ namespace IfElseif
             string inputTemperatura = Console.ReadLine();
 
             int temperatura = 0;
-
             int grados;
+            
+            //Hacemos TryParse para controlar que el dato introducido es correcto
+            
             if(int.TryParse(inputTemperatura, out grados))
             {
                 temperatura = grados;
@@ -22,6 +24,8 @@ namespace IfElseif
             {
                 Console.WriteLine("El valor introducido no es correcto. Un terrible temblor invade tu cuerpo");
             }
+
+            //Creamos los if y elseif según la temperatura introducida
 
             if (temperatura < 10)
             {
