@@ -30,7 +30,7 @@ namespace IfMejorada
             //    evaluacion = "suspenso";
             //}
 
-            //con if mejorado
+            //con if mejorado:
 
             evaluacion = nota >= 5 ? "aprobado" : "suspenso";
             
