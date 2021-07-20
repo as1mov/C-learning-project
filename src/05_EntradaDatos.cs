@@ -20,7 +20,7 @@ namespace EntradaDatos
 
             edad = int.Parse(Console.ReadLine());
 
-            // Otra manera sería: edad = Convert.ToInt32(Console.ReadLine())
+            //Otra manera sería: edad = Convert.ToInt32(Console.ReadLine())
 
             Console.WriteLine(edad);
 
