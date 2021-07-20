@@ -1,6 +1,6 @@
 using System;
 
-namespace variables
+namespace Variables
 {
     class Program
     {
