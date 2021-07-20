@@ -4,16 +4,23 @@ namespace Login
 {
     class Program
     {
+        /*Declaramos las variables fuera del Main. De este modo podremos acceder a ellas desde cualquier método.
+        Esta clase de variables se llaman variables globales*/
 
         static string nombreUsuario;
         static string pass;
 
         static void Main(string[] args)
         {
+            //Invocamos los métodos
+            
             Registro();
             Ingreso();
             Console.ReadKey();
         }
+
+        /*Creamos un método para el registro y otro para el ingreso.
+        Como queremos acceder a ellas desde el main, estas serán públicas*/
 
         public static void Registro()
         {
