@@ -1,6 +1,6 @@
 using System;
 
-namespace CSharpLearningProject
+namespace LoopDoWhile
 {
     class Program
     {
@@ -17,7 +17,7 @@ namespace CSharpLearningProject
             } while (a == 6);
 
             /*Este bucle realiza la acción al menos una vez
-             y se detiene cuando la premisa del while se cumple*/
+             y se detiene cuando la condición del while se cumple*/
 
             Console.ReadKey();
         }
