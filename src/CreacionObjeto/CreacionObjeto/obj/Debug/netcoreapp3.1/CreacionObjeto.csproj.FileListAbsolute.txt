@@ -1,0 +1,12 @@
+C:\Users\JLBLANCO\source\repos\CreacionObjeto\CreacionObjeto\bin\Debug\netcoreapp3.1\CreacionObjeto.exe
+C:\Users\JLBLANCO\source\repos\CreacionObjeto\CreacionObjeto\bin\Debug\netcoreapp3.1\CreacionObjeto.deps.json
+C:\Users\JLBLANCO\source\repos\CreacionObjeto\CreacionObjeto\bin\Debug\netcoreapp3.1\CreacionObjeto.runtimeconfig.json
+C:\Users\JLBLANCO\source\repos\CreacionObjeto\CreacionObjeto\bin\Debug\netcoreapp3.1\CreacionObjeto.runtimeconfig.dev.json
+C:\Users\JLBLANCO\source\repos\CreacionObjeto\CreacionObjeto\bin\Debug\netcoreapp3.1\CreacionObjeto.dll
+C:\Users\JLBLANCO\source\repos\CreacionObjeto\CreacionObjeto\bin\Debug\netcoreapp3.1\CreacionObjeto.pdb
+C:\Users\JLBLANCO\source\repos\CreacionObjeto\CreacionObjeto\obj\Debug\netcoreapp3.1\CreacionObjeto.AssemblyInfoInputs.cache
+C:\Users\JLBLANCO\source\repos\CreacionObjeto\CreacionObjeto\obj\Debug\netcoreapp3.1\CreacionObjeto.AssemblyInfo.cs
+C:\Users\JLBLANCO\source\repos\CreacionObjeto\CreacionObjeto\obj\Debug\netcoreapp3.1\CreacionObjeto.csproj.CoreCompileInputs.cache
+C:\Users\JLBLANCO\source\repos\CreacionObjeto\CreacionObjeto\obj\Debug\netcoreapp3.1\CreacionObjeto.dll
+C:\Users\JLBLANCO\source\repos\CreacionObjeto\CreacionObjeto\obj\Debug\netcoreapp3.1\CreacionObjeto.pdb
+C:\Users\JLBLANCO\source\repos\CreacionObjeto\CreacionObjeto\obj\Debug\netcoreapp3.1\CreacionObjeto.genruntimeconfig.cache
