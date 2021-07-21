@@ -1,6 +1,6 @@
 using System;
 
-namespace PacMatrices
+namespace GeneradorMatrices
 {
     class Program
     {
