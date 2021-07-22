@@ -1,0 +1,13 @@
+C:\Users\JLBLANCO\source\repos\Constructores\Constructores\bin\Debug\netcoreapp3.1\Constructores.exe
+C:\Users\JLBLANCO\source\repos\Constructores\Constructores\bin\Debug\netcoreapp3.1\Constructores.deps.json
+C:\Users\JLBLANCO\source\repos\Constructores\Constructores\bin\Debug\netcoreapp3.1\Constructores.runtimeconfig.json
+C:\Users\JLBLANCO\source\repos\Constructores\Constructores\bin\Debug\netcoreapp3.1\Constructores.runtimeconfig.dev.json
+C:\Users\JLBLANCO\source\repos\Constructores\Constructores\bin\Debug\netcoreapp3.1\Constructores.dll
+C:\Users\JLBLANCO\source\repos\Constructores\Constructores\bin\Debug\netcoreapp3.1\Constructores.pdb
+C:\Users\JLBLANCO\source\repos\Constructores\Constructores\obj\Debug\netcoreapp3.1\Constructores.csproj.AssemblyReference.cache
+C:\Users\JLBLANCO\source\repos\Constructores\Constructores\obj\Debug\netcoreapp3.1\Constructores.AssemblyInfoInputs.cache
+C:\Users\JLBLANCO\source\repos\Constructores\Constructores\obj\Debug\netcoreapp3.1\Constructores.AssemblyInfo.cs
+C:\Users\JLBLANCO\source\repos\Constructores\Constructores\obj\Debug\netcoreapp3.1\Constructores.csproj.CoreCompileInputs.cache
+C:\Users\JLBLANCO\source\repos\Constructores\Constructores\obj\Debug\netcoreapp3.1\Constructores.dll
+C:\Users\JLBLANCO\source\repos\Constructores\Constructores\obj\Debug\netcoreapp3.1\Constructores.pdb
+C:\Users\JLBLANCO\source\repos\Constructores\Constructores\obj\Debug\netcoreapp3.1\Constructores.genruntimeconfig.cache
