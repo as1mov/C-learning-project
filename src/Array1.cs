@@ -7,12 +7,12 @@ namespace Arrays
         static void Main(string[] args)
         {
             //Declaración del array
-            
-            int[]edades;
+
+            int[] edades;
 
             //Inicialización del array
 
-            edades = new int [4];
+            edades = new int[4];
 
             /*Aunque parezca que el array está vacío, en realidad no lo está.
             Si no hemos asignado ningún valor, la matriz tendrá asignados los valores por defecto según su tipo.
@@ -23,9 +23,9 @@ namespace Arrays
 
             //Asignamos valores al array
 
-            edades[0] = 12
-            edades[1] = 18
-            edades[2] = 27
+            edades[0] = 12;
+            edades[1] = 18;
+            edades[2] = 27;
 
             //Si dejamos un valor sin añadir, se le dará el valor por defecto, en este caso, 0
 
@@ -41,9 +41,19 @@ namespace Arrays
 
             //Si intentamos acceder a un índice de la matriz que no existe.
 
-            edades[3] = 8
+            edades[3] = 8;
 
             //Nos dará un error de excepción, ya que dicho valor no existe en la matriz (está fuera de rango)
+
+            //Otras formas de declarar un array:
+
+            string[] alumnos = { "José", "Luis", "Ana", "Lucía" };
+
+            //El tamaño del array lo fijará el número de datos que estén entre llaves.
+
+            //Otro modo:
+
+            int[] numeros = new int[] { 2, 4, 8, 15, 22 };
 
             Console.ReadKey();
         }
