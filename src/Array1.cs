@@ -55,6 +55,10 @@ namespace Arrays
 
             int[] numeros = new int[] { 2, 4, 8, 15, 22 };
 
+            //Para conocer el tamaño de una matriz se utiliza el método length
+
+            Console.WriteLine("El tamaño del array números es " + numeros.Length);
+
             Console.ReadKey();
         }
     }
