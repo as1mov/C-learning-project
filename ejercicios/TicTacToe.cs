@@ -1,6 +1,6 @@
 using System;
 
-namespace TresRaya
+namespace TicTacToe
 {
     class Program
     {
