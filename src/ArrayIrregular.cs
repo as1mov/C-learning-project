@@ -33,6 +33,22 @@ namespace ArrayIrregular
                 new int[] { 1, 32, 26, 62, 100, 82 }
             };
 
+            /*Cómo acceder a un valor dentro del array:
+            el primer valor entre corchetes es el número del array
+            el segundo es el índice del valor de dentro del array*/
+
+            Console.WriteLine("El segundo valor de la segunda matriz es {0} ", matriz[1][1]);
+
+            //Accedemoms a todos los valores del array con un for
+
+            for (int i = 0; i < matriz.Length; i++)
+            {
+                Console.WriteLine("Los valores del array {0} son: ", i);
+                for (int j = 0; j < matriz[i].Length; j++)
+                {
+                    Console.WriteLine("{0}", matriz[i][j]);
+                }
+            }
             Console.ReadKey();
         }
     }
